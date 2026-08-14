@@ -118,7 +118,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .vinil {
@@ -150,13 +150,6 @@ main {
   transition-duration: 0.5s;
   transform: scale(1.06);
 }
-
-vinil:hover {
-  box-shadow: 5px 8px 15px 3px #0000001e;
-  transition-duration: 0.6s;
-  transform: scale(1.05);
-}
-
 .vinil h3 {
   font-size: 18px;
   color: #ffffff;
