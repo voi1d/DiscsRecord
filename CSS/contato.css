@@ -1,6 +1,6 @@
 @font-face {
   font-family: "bitrank";
-  src: url("/Fonts/Midstar_Personal_Use.otf") format("opentype");
+  src: url("../Fonts/Midstar_Personal_Use.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
